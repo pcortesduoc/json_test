@@ -3,7 +3,7 @@
     {
       "idCategory": "1",
       "strCategory": "Beef",
-      "strCategoryThumb": "../ropa_1.jpg",
+      "strCategoryThumb": "./ropa_1.jpg",
       "strCategoryDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.[1] Beef is a source of high-quality protein and essential nutrients.[2]"
     },
     {
