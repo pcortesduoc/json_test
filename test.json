@@ -3,10 +3,10 @@
     {
       "id": 1,
       "title": "Collar Celeste",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "price": 5079,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident facilis eaque quibusdam accusamus repudiandae, dolor totam? Repudiandae distinctio atque voluptate beatae odio est dolor tenetur, deserunt, odit nemo quisquam nulla?",
       "category": "men's clothing",
-      "image": "./ropa_1.jpg",
+      "image": "https://i.postimg.cc/XNkdcvCF/ropa-1.jpg",
       "rating": {
         "rate": 3.9,
         "count": 120
