@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Collar Celeste",
       "price": 5079,
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident facilis eaque quibusdam accusamus repudiandae, dolor totam? Repudiandae distinctio atque voluptate beatae odio est dolor tenetur, deserunt, odit nemo quisquam nulla? \n\t-Color: Celeste \n\tTamaño: 42 x 25 cm",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident facilis eaque quibusdam accusamus repudiandae, dolor totam? Repudiandae distinctio atque voluptate beatae odio est dolor tenetur, deserunt, odit nemo quisquam nulla? \\n\\t-Color: Celeste \\n\\tTamaño: 42 x 25 cm",
       "category": "Collares",
       "image": "https://i.postimg.cc/jjyMYvPW/collar-para-perros.jpg",
       "rating": {
