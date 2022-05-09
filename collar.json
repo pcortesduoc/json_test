@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Collar Celeste",
       "price": 5079,
-      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident facilis eaque quibusdam accusamus repudiandae, dolor totam? Repudiandae distinctio atque voluptate beatae odio est dolor tenetur, deserunt, odit nemo quisquam nulla?",
-      "category": "men's clothing",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident facilis eaque quibusdam accusamus repudiandae, dolor totam? Repudiandae distinctio atque voluptate beatae odio est dolor tenetur, deserunt, odit nemo quisquam nulla? \n\t-Color: Celeste \n\tTamaño: 42 x 25 cm",
+      "category": "Collares",
       "image": "https://i.postimg.cc/jjyMYvPW/collar-para-perros.jpg",
       "rating": {
         "rate": 3.9,
@@ -15,7 +15,7 @@
     {
       "id": 2,
       "title": "Collar Rojo",
-      "price": 22.3,
+      "price": 8650,
       "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
       "category": "men's clothing",
       "image": "https://i.postimg.cc/5NGgHDmY/collar-para-perros-2.jpg",
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "title": "Collar Negro y Rosa",
-      "price": 55.99,
+      "price": 4990,
       "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
       "category": "men's clothing",
       "image": "https://i.postimg.cc/0yTV4hMR/collar-para-gatos-2.jpg",
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "title": "Collar Rojo",
-      "price": 15.99,
+      "price": 3550,
       "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
       "category": "men's clothing",
       "image": "https://i.postimg.cc/zB50zWFx/collar-para-perros-3.jpg",
@@ -51,7 +51,7 @@
     {
       "id": 5,
       "title": "Collar Flores",
-      "price": 695,
+      "price": 6950,
       "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
       "category": "jewelery",
       "image": "https://i.postimg.cc/5Njp2f8W/collar-para-perros-4.jpg",
@@ -63,7 +63,7 @@
     {
       "id": 6,
       "title": "Collar Azul",
-      "price": 168,
+      "price": 4168,
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
       "category": "jewelery",
       "image": "https://i.postimg.cc/C5x7DgtD/collar-para-perros-5.jpg",
@@ -75,7 +75,7 @@
     {
       "id": 7,
       "title": "Collar Verde",
-      "price": 9.99,
+      "price": 9990,
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
       "category": "jewelery",
       "image": "https://i.postimg.cc/yxpPyG4G/collar-para-perros-6.jpg",
@@ -87,7 +87,7 @@
     {
       "id": 8,
       "title": "Collar Rosa",
-      "price": 10.99,
+      "price": 2590,
       "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
       "category": "jewelery",
       "image": "https://i.postimg.cc/c1FXWvgc/collar-para-gatos-3.jpg",
@@ -99,7 +99,7 @@
     {
       "id": 9,
       "title": "Collar Amarillo",
-      "price": 64,
+      "price": 1560,
       "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
       "category": "electronics",
       "image": "https://i.postimg.cc/630zy3Ht/collar-para-perros-7.jpg",
